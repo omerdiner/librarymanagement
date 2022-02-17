@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Guvenlik {
 
     private final String sifre = "omer123";
-    private final String silmeSifre = "silmelan";
+    private final String silmeSifre = "qwqe";
 
     public boolean giris() {
         Scanner scanner = new Scanner(System.in);
