@@ -1,2 +1,3 @@
 # librarymanagement
- a small library project for my use
+ a small library project 
+ to manage my books at home

@@ -1,0 +1,301 @@
+Mustafa Kemal,Yilmaz Ozdil,Kirmizi Kedi,tarih,498
+Oblomov,Goncarov,Is Bankasi,roman,622
+Suc ve Ceza,Dostoyevski,Is Bankasi,roman,687
+Gazi Mustafa Kemal ATATURK,Ilber Ortayli,Kronik,tarih,476
+Martin Eden,Jack London,Is Bankasi,roman,516
+Iki Sehrin Hikayesi,Charles Dickens,Is Bankasi,roman,504
+Anlamli ve Coskulu Bir Yasam Icin SAVASCI,Dogan Cuceloglu,Sistem Yayincilik,felsefe,416
+Hababam Sinifi,Rifat Ilgaz,Cinar Yayinlari,roman,463
+Sah Sultan,Iskender Pala,Kapi Yayinlari,roman,390
+Can Pazari,Huseyin Rahmi Gurpinar,Ozgur Yayinlari,roman,420
+Asiklarin Diliyle Cumhuriyet,Kolektif,TDK,siir,299
+Sefiller 1,Victor Hugo,Is Bankasi,roman,857
+Sefiller 2,Victor Hugo,Is Bankasi,roman,848
+Ilyada,Homeros,Is Bankasi,siir,615
+Denemeler,Montaigne,Arya Yayincilik,siir,360
+Adam,Yilmaz Ozdil,Kirmizi Kedi,tarih,505
+Insan Lekesi,Philip Roth,Ayrinti,roman,368
+Nasil Yaziyorlar?,Ahmet Koklugiller,IQ Kultur Sanat Yayincilik,tarih,428
+Hayvan Mezarligi,Stephen King,Altin Kitaplar,roman,374
+Gun Olur Asra Bedel,Cengiz Aytmatov,Otuken,roman,413
+Beyaz Gemi,Cengiz Aytmatov,Otuken,roman,174
+Toprak Ana,Cengiz Aytmatov,Otuken,roman,135
+Cemile,Cengiz Aytmatov,Otuken,roman,80
+Disi Kurdun Ruyalari,Cengiz Aytmatov,Otuken,roman,390
+Robinson Crusoe,Daniel Defoe,Sabah,roman,368
+Define Adasi,Robert Louis Stevenson,Is Bankasi,roman,269
+Suyu Arayan Toprak,Mehmet Farac,Ozan Yayincilik,bilim,279
+Kavgam,Adolf Hitler,Mavicati Yayinlari,tarih,628
+Cocukluk Adasi KAVGAM 3,Karl Ove Knausgaard,Monokl,tarih,455
+Asik Bir Adam KAVGAM 2,Karl Ove Knausgaard,Monokl,tarih,566
+KAVGAM 1,Karl Ove Knausgaard,Monokl,tarih,490
+Tom Sawyer'in Maceralari,Mark Twain,Is Bankasi,roman,260
+Don Kisot,Cervantes,Lacivert Yayincilik,roman,304
+Krallarin Merhameti,Ken Liu,Ithaki,roman,600
+Korluk,Jose Saramago,Kirmizi Kedi,roman,331
+Kalbin Temizse Hikayen Mutlu Biter,Hakan Menguc,Destek,felsefe,231
+Erken Kaybedenler,Emrah Serbes,Iletisim,roman,143
+Ask,Elif Safak,Dogan Kitap,roman,419
+Osmancik,Tarik Bugra,Otuken,roman,350
+Gercek Mucize Kendine Inanmaktir,Ethem Emin Nemutlu,Olimpos,felsefe,175
+Uzun Beyaz Bulut Gelibolu,Buket Uzuner,Everest,roman,342
+Beyaz Birlik,Sir Arthur Conan Doyle,Cati Kitaplari,roman,429
+Cinlerle Yolculuk,Jamal Mahjoub,YKY,roman,362
+Dorduncu K,Mario Puzo,Inkilap,roman,543
+Chess,Stefan Zweig,literart,roman,80
+Gulliver's Travels,Jonathan Swift,Dorlion ,roman,294
+Geri Donus,Harlan Coben,Marti,roman,416
+Monte Kristo Kontu,Alexandre Dumas,Tutku,roman,582
+Bir Idam Mahkumunun Son Gunu,Victor Hugo,Is Bankasi,roman,88
+Yeraltindan Notlar,Dostoyevski,Is Bankasi,roman,139
+Hamlet,Shakespeare,Is Bankasi,siir,186
+Beyaz Dis,Jack London,Mavicati,roman,175
+Genc Werther'in Acilari,Goethe,Mavicati,roman,144
+Suphe Asla Uyumaz,Sir Arthur Conan Doyle,Marti,roman,448
+Aklin Suphesi Sucun Gercegidir,Sir Arthur Conan Doyle,Marti,roman,336
+Suc Detayda Saklidir,Sir Arthur Conan Doyle,Marti,roman,349
+Akil Oyunlarinin Golgesinde,Sir Arthur Conan Doyle,Marti,roman,396
+Gercekler Kanit Ister,Sir Arthur Conan Doyle,Marti,roman,352
+Kardeslik Savascilari 3 Avcilar,John Flanagan,Beyaz Balina,roman,427
+Kardeslik Savascilari 2 Isgalciler,John Flanagan,Beyaz Balina,roman,470
+Kardeslik Savascilari 1 Dislanmislar,John Flanagan,Beyaz Balina,roman,469
+Golgelerin Efendisi 12 Son Orman Muhafizi,John Flanagan,Beyaz Balina,roman,504
+Golgelerin Efendisi 11 Kayip Oykuler,John Flanagan,Beyaz Balina,roman,518
+Golgelerin Efendisi 10 N�hon Ja Imparatoru,John Flanagan,Beyaz Balina,roman,526
+Insanlik Tarihinden Gayri Ciddi Notlar,Yalcin Peksen,Say,siir,255
+Besinci Tup,Michael Palmer,Marti,roman,472
+Bes Sehir,Ahmet Hamdi Tanpinar,Dergah,roman,224
+Her Sey Seninle Baslar,Mumin Sekman,Alfa,felsefe,239
+Kan Golu,Tess Gerritsen,Marti,roman,448
+Seyyah,Terry Haves,Marti,roman,445
+Altinci Adam,David Baldacci,Marti,roman,543
+25.Madde,Michael Palmer,Marti,roman,468
+Huzursuzluk,Zulfu Livaneli,Dogan Kitap,roman,154
+Bin Muhtesem Gunes,Khaled Hosseini,Everest,roman,430
+Mahser,Stephen King,Altin Kitaplar,roman,399
+Buyuk Umutlar,Charles Dickens,Dionis,roman,559
+Anna Karenina,Tolstoy,Dionis,roman,872
+Bos Koltuk,JK Rowling,Dogan Kitap,roman,591
+Dosttan Gelen Selamsin,Fikret Otyam,Gunizi Yayincilik,siir,800
+Yuzuklerin Efendisi,JRR Tolkien,Metis,roman,1016
+Milena'ya Mektuplar,Franz Kafka,Mavicati,siir,390
+Insan Ne Ile Yasar,Tolstoy,Sis,roman,95
+Insanligin Saadeti Icin Hz Muhammed,Mustafa Soykok,yok,tarih,240
+Kutadgu Bilig,Yusuf Has Hacip,Sabah,siir,176
+Babalar ve Ogullar,Ivan Turgenyev,Sabah,roman,272
+Zenginler Kulubu,John Arthur,Ihlamur,roman,604
+Madam Bovary,Gustav Flaubert,Sabah,roman,288
+Olu Canlar,Gogol,Sabah,roman,286
+Kirmizi ve Siyah,Stendhal,Mavicati,roman,582
+Peygamberimizin Hayati,Irfan Yucel,Diyanet Isleri Baskanligi,tarih,280
+500 Soruda Islam,Yasar Nuri Ozturk,Yeni Boyut,bilim,415
+Cariyeler Saltanati,Ertugrul Burak,Cati Kitaplari,tarih,288
+Java Bilgisayar Proglamlamaya Giris,Kolektif,Palme,bilim,288
+C Proglamlamanin Temelleri,Timur Karacay,Abakus,bilim,477
+C/C++,Fahrettin Erdinc,Abakus,bilim,692
+Algoritma ve Proglamlama Mantigi,H.Burak Tungut,Kodlab,bilim,302
+50 Soruda Yapay Zeka,Cem Say,Bilim ve Gelecek Kitapligi,bilim,184
+Ozgur ve Bedava Internet:Caginda Bilgi,Cory Doctorow,Koc Universitesi Yayinlari,bilim,223
+Her Yonuyle Siber Savas,Hasan Cifci,TUBITAK,bilim,443
+Golgelerin Efendisi 13 Kizil Tilki Klani,John Flanagan,Beyaz Balina,roman,374
+Dortlukler -Rubailer-,Omer Hayyam,Is Bankasi,siir,202
+Icimdeki Sen Kirintilari,Ozgur Gumussoy,Nemesis,siir,257
+Ask Kodu,X-Y,Dharma,felsefe,159
+Gokyuzune Not,Ahmet Batman,Destek,siir,213
+Uzun Hikaye,Mustafa Kutlu,Dergah,siir,114
+Yarim Ekmek Kadin Erkek,Lutfi Albayrak,Beka Sanat,siir,195
+Sevda Sozleri-Butun Siirleri,Cemal Sureya,YKY,siir,329
+Benden Sonra Mutluluk,Ozdemir Asaf,Adam,siir,286
+Dokuza Kadar On,Ozdemir Asaf,YKY,siir,110
+Goge Bakma Duragi,Turgut Uyar,YKY,siir,108
+Ustu Kalsin,Cemal Sureya,YKY,siir,118
+Gelmis Bulundum,Edip Cansever,YKY,siir,114
+Henuz Vakit Varken Gulum,Nazim Hikmet,YKY,siir,112
+Lavinia-Ask Siirleri,Ozdemir Asaf,YKY,siir,78
+Monna Rosa Siirler 1,Sezai Karakoc,Dirilis ,siir,47
+Beklentiler Uzer,Ahmet Yavuz,Dokuz,siir,176
+Sen On Yedi Yasimsin,Mirac Cagri Aktas,Olimpos,siir,160
+Canin Sagolsun,Serkan Ozel,Destek,siir,274
+Meshur Sairlerden Meshur Siirler 1,Kolektif,Zambak,siir,420
+Alamut,Vladimir Bartol,Koridor,roman,510
+Hobbit,JRR Tolkien,Ithaki,roman,425
+Ayni Yildizin Altinda,John Green,Pegasus,roman,317
+Sis ve Gece,Ahmet Umit,Everest,roman,271
+Istanbul Hatirasi,Ahmet Umit,Everest,roman,685
+Kukla,Ahmet Umit,Everest,roman,687
+Istanbullular,Buket Uzuner,Everest,roman,600
+Melekler ve Seytanlar,Dan Brown,Altin Kitaplar,roman,590
+OD,Iskender Pala,Kapi,roman,405
+Ucurtma Avcisi,Khaled Hosseini,Everest,roman,440
+Oscar Wilde Toplu Oykuler,Oscar Wilde,Mitra,siir,288
+Yuregim Seni Cok Sevdi,Canan Tan,Altin Kitaplar,roman,459
+Hayvan Ciftligi,George Orwell,Can,roman,152
+Seker Portakali,Jose Mauro De Vasconcelos,Can,roman,182
+Muhtesem Gatsby,F.Scott Fitzgerald,Is Bankasi,roman,176
+Sineklerin Tanrisi,William Golding,�s Bankasi,roman,261
+Otomatik Portakal,Anthony Burgess,Is Bankasi,roman,168
+Cesur Yeni Dunya,Aldous Huxley,Ithaki,roman,266
+Kor Baykus,Sadik Hidayet,YKY,roman,88
+Cavdar Tarlasinda Cocuklar,JD Salinger,YKY,roman,198
+Simyaci,Paulo Coelho,Can,roman,182
+The Little Prince,Antoine De Saint Exupery,MK Publications,roman,108
+Kucuk Prens,Antoine De Saint Exupery,Can Cocuk,roman,105
+Vahsetin Cagrisi,Jack London,�s Bankasi,roman,107
+Satranc,Stefan Zweig,Can,roman,71
+Bilinmeyen Bir Kadinin Mektubu,Stefan Zweig,Is Bankasi,roman,62
+Olu Ozanlar Dernegi,NH Kleinbaum,Bilge Kultur Sanat,roman,136
+Bin Dokuz Yuz Seksen Dort,George Orwell,Can,roman,350
+Bulbulu Oldurmek,Harper Lee,Sel,roman,357
+Fahrenheit 451,Ray Bradbury,Ithaki,roman,238
+Sol Ayagim,Christy Brown,Nokta Kitap,roman,160
+Fareler ve Insanlar,John Steinbeck,Sel,roman,126
+Marti Jonathan Livingston,Richard Bach,Epsilon,roman,92
+Zacharius Usta,Jules Verne,Is Bankasi,roman,49
+Uc Buyuk Usta,Stefan Zweig,Is Bankasi,tarih,217
+Mecburiyet,Stefan Zweig,Is Bankasi,roman,50
+Zaman Makinesi,HG Wells,Is Bankasi,roman,104
+Bir Kuzey Macerasi,Jack London,Is Bankasi,roman,51
+Altinci Kogus,Anton Cehov,Is Bankasi,roman,68
+Korku,Stefan Zweig,Is Bankasi,roman,70
+Ruh Adam,Atsiz,Otuken,roman,296
+Kuslar Yasina Gider,Hasan Ali Toptas,Everest,roman,248
+Tehlikeli Oyunlar,Oguz Atay,Iletisim,roman,480
+Serenad,Zulfu Livaneli,Dogan Kitap,roman,481
+Aylak Adam,Yusuf Atilgan,YKY,roman,155
+Kurk Mantolu Madonna,Sabahattin Ali,YKY,roman,160
+Kuyucakli Yusuf,Sabahattin Ali,YKY,roman,222
+Degirmen,Sabahattin Ali,YKY,siir,137
+Firat Suyu Kan Akiyor Baksana-Bir Ada Hikayesi 1,Yasar Kemal,YKY,roman,318
+Sinekli Bakkal,Halide Edib Adivar,Can,roman,419
+Calikusu,Resat Nuri Guntekin,Inkilap,roman,448
+Yaprak Dokumu,Resat Nuri Guntekin,Inkilap,roman,141
+Ask-i Memnu,Halid Ziya Usakligil,Ozgur,roman,514
+Gozlerini Simsiki Kapat,John Verdon,Koridor,roman,566
+Marsli,Andy Weir,Ithaki,roman,416
+Beyoglu'nun En Guzel Abisi,Ahmet Umit,Everest,roman,412
+Cehennem,Dan Brown,Altin Kitaplar,roman,573
+Semerkant,Amin Maalouf,YKY,roman,318
+Tarihimizin Ilginc ve Sasirtan Olaylari,Orhan Yeniaras,Panama,tarih,379
+Olasiliksiz,Adam Fawer,April,roman,494
+Kar Kurdu,Glenn Meade,Dogan Kitap,roman,661
+Vadideki Zambak,Balzac,Antik Kitap,roman,240
+Intibah,Namik Kemal,Is Bankasi,roman,137
+Felatun Bey ile Rakim Efendi,Ahmet Mithat Efendi,Mavicati,roman,168
+Serguzest,Sami Pasazade Sezai,Mavicati,roman,119
+Eylul,Mehmet Rauf,Mavicati,roman,252
+Zehra,Nabizade Nazim,Mavicati,roman,142
+Vatan Yahut Silistre,Namik Kemal,Mavicati,roman,173
+Iki Yil Okul Tatili,Jules Verne,Is Bankasi,roman,132
+Secme Hikayeler,Sait Faik Abasiyanik,Is Bankasi,siir,123
+Beyaz Geceler-Uysal Kiz,Dostoyevski,Antik Kitap,roman,159
+Andersen Masallari,Hans Christian Andersen,Is Bankasi,siir,255
+Robin Hood,Howard Pyle,Is Bankasi,roman,295
+Shakespeare'den Hikayeler,Charles ve Mary Lamb,Is Bankasi,siir,287
+Cocuk Kalbi,Edmondo De Amicis,Is Bankasi,roman,321
+Hikayeler,Anton Cehov,Is Bankasi,siir,163
+Dinle Kucuk Adam,Wilhelm Reich,Oda,roman,126
+Beyaz Zambaklar Ulkesinde,Grigory Petrov,Mavicati,roman,159
+Yasam Bilgeligi Uzerine Aforizmalar,Arthur Schopenhauer,Is Bankasi,felsefe,222
+Savas Sanati,Sun Zi,Is Bankasi,felsefe,61
+Iyi Hissetmek-Yeni Duygudurum Tedavisi,Dr.David Burns,Psikonet,felsefe,404
+Devlet,Platon,Anonim Yayincilik,felsefe,248
+Boyle Buyurdu Zerdust,Nietzsche,Panama,felsefe,320
+Felsefenin Kisa Tarihi,Nigel Warburton,Alfa,felsefe,359
+Sofie'nin Dunyasi,Jostein Gaarder,Pan,felsefe,591
+Dava,Franz Kafka,Is Bankasi,roman,216
+Yabanci,Albert Camus,Can,roman,110
+Donusum,Franz Kafka,Can,roman,102
+Ermis,Halil Cibran,Is Bankasi,felsefe,54
+Gosteri Peygamberi,Chuck Palahniuk,Ayrinti,roman,273
+Aforizmalar,Franz Kafka,Tutku,felsefe,121
+Descartes,Fatih Erdogan,Mavicati,tarih,149
+Friedrich Nietzsche,Murat Turkoglu,Mavicati,tarih,140
+Kader Uzerine,Cicero,Zeplin,felsefe,211
+Ethica,Spinoza,Alfa,felsefe,509
+Askin Metafizigi,Arthur Schopenhauer,Mavicati,felsefe,76
+Kitleler Psikolojisi,Gustave Le Bon,Mavicati,felsefe,167
+Totem ve Tabu,Sigmund Freud,Mavicati,felsefe,193
+Komunist Manifesto,Karl Max,Engels,Mavicati,felsefe,96
+Turk Egitim Tarihi MO 1000-MS 2015,Prof.Dr.Yahya Akyuz,Pegem Akademi,tarih,530
+Fizik Uzerine Yedi Kisa Ders,Carlo Rovelli,Can,bilim,71
+Gelecegi Degistiren Dokuz Algoritma,John MacCormick,TUBITAK,bilim,291
+Bir Astronottan Hayat Dersleri,Chris Hadfield,TUBITAK,bilim,288
+Bir Astronota Sorun::Uzayda Yasam Rehberim,Tim Peake,Marti,bilim,272
+Tarihin Akisina Yon Verenler,Dr.Yasar Atesoglu,Neden?,tarih,312
+Insanin Kokeni,Richard Leakey,Varlik,bilim,175
+Insan Beyni,Susan Greenfield,Varlik,bilim,157
+Gunluk Hayatin Bilimsel Sifreleri,Michael Raymond,Grifin,bilim,152
+Nelson Mandela,belirsiz,Mavicati,tarih,156
+Che,belirsiz,Mavicati,tarih,159
+Hankah,Baran Aydin,Destek,tarih,367
+Turkce "Off",Feyza Hepcilingirler,Remzi Kitabevi,bilim,325
+Anatomi 101,Kevin Langford,Say,bilim,277
+Nikola Tesla,belirsiz,Mavicati,tarih,157
+Stephen Hawking,Murat Turkoglu,Mavicati,tarih,152
+Albert Einstein,Ercan Gokyurt,Mavicati,tarih,128
+Gunahkar Kralice Kleopatra,Gaston Vincennes,Mavicati,roman,134
+Ibn-i Sina(Avicenna),Fatih Erdogan,Mavicati,tarih,137
+Omer Hayyam,Halil Harun Han,Mavicati,tarih,111
+Victor Hugo Yasamoykusu,Besir Fuad,Ozgur,tarih,207
+Messi,Luca Caioli,Marti,tarih,304
+Turlerin Kokeni,Charles Darwin,Yason,bilim,592
+Dunyayi Degistiren Liderler,Emir Celik,Tutku,tarih,413
+William Shakespeare,belirsiz,Mavicati,tarih,154
+Leonardo da Vinci,belirsiz,Mavicati,tarih,150
+Steve Jobs,Murat Turkoglu,Mavicati,tarih,137
+Bir Solukta Evren ve Dunya Tarihi,Ian Crofton ve Jeremy Black,Say,tarih,272
+Zamanin Kisa Tarihi,Stephen Hawking,Alfa,bilim,251
+Amazon,John Rossman,Marti,felsefe,213
+Yazilamayanlar,Sabahattin Onkibar,Kirmizi Kedi,tarih,209
+Amerikan Rapsodisi,Mehmet Altan,Hemen Kitap,tarih,166
+Simdiki Cocuklar Harika,Aziz Nesin,Adam,siir,183
+Gercegin Masali,Aziz Nesin,Nesin,siir,159
+Nazim Hikmet'le 3,5 Yil,Orhan Kemal,Everest,tarih,128
+Ay Hirsizi,Sunay Akin,Is Bankasi,tarih,235
+Hayal Kahramanlari,Sunay Akin,Is Bankasi,tarih,199
+Uluslarin Dususu,Daron Acemoglu,James A. Robinson,Dogan Kitap,tarih,496
+Beden Dili,Eski FBI Ajanindan Insanlarin Bedenini Okuma Rehberi,Joe Navarro,Alfa,bilim,300
+Dunyayi Somuren Amerika,John Tirman,Altin Kitaplar,tarih,335
+Orneklerle Kolay Ekonomi,Mahfi Egilmez,Remzi Kitabevi,bilim,192
+Gorunmeyen El Tarihte Gun Isigina Cikmayanlar,Kont Cherep Spiridovich,Selis,tarih,304
+Tas Devrinden Bugune Tarihimiz Insanin Hikayesi,James C. Davis,Is Bankasi,tarih,478
+Hayvanlardan Tanrilara:Sapiens Insan Turunun Kisa Bir Tarihi,Yuval Noah Harari,Kolektif Kitap,tarih,413
+Tufek,Mikrop ve Celik-Insan Topluluklarinin Yazgilari,Jared Diamond,TUBITAK,tarih,662
+Aydinliktan Karanliga Turkiye Cumhuriyeti,Mehmet Emin Kunt,Pupa,tarih,487
+Turk Din Etnolojisi,Prof.Dr. Harun Gungor,IQ Kultur Sanat,tarih,207
+METE HAN,Yusuf Osman,Mavicati,tarih,215
+Osmanli Tarihi,J. Von Hammer,Kamer,tarih,473
+Osmanli Padisahlari,Ercan Karli,Gecit Kitabevi,tarih,336
+Turklerin Tarihi Pasifik'ten Akdeniz'e 2000 Yil,Jean-Paul Roux,Kabalci,tarih,563
+Cumhuriyet Turk Mucizesi 2,Turgut Ozakman,Bilgi,tarih,845
+Panzehir,Sinan Meydan,Inkilap,tarih,568
+Nutuk,Gazi Mustafa Kemal ATATURK,Alfa,tarih,639
+Kemalizmin �lkeleri:Alti Ok,Ali Ozsoy,Ileri,tarih,567
+Sari Zeybek,Can Dundar,Milliyet,tarih,151
+Mustafa Kemal Ataturk Hayalet Suvari,Ray Brock,Yakamoz,tarih,456
+Ataturk Hakkinda Hatiralar ve Belgeler,Afet Inan,Is Bankasi,tarih,536
+Ataturk:Bir Milletin Yeniden Dogusu,Lord Kinross,Altin Kitaplar,tarih,592
+Gazi Pasa,Attila Ilhan,Is Bankasi,roman,468
+Ataturkculuk Nedir,Kolektif,Ileri,tarih,317
+Dirilis Canakkale 1915,Turgut Ozakman,Bilgi,tarih,685
+Su Cilgin Turkler,Turgut Ozakman,Bilgi,tarih,747
+Cumhuriyet Turk Mucizesi 1,Turgut Ozakman,Bilgi,tarih,435
+Cankaya,Falih Rifki Atay,Pozitif,tarih,712
+Bana Ataturk'u Anlattilar,Hifzi Topuz,Remzi Kitabevi,tarih,190
+Laiklik Nedir Ne Degildir?,Ahmet Koklugiller,IQ Kultur Sanat,tarih,384
+Kime Aydin Denir?,Ahmet Koklugiller,IQ Kultur Sanat,tarih,320
+Ataturk Mason Muydu?,Hakan Yilmaz Cebi,Bilge Karinca,tarih,176
+Ataturk'ten Olmez Sozler,Abdullatif Ugurdikan,Mavicati,tarih,144
+Ataturk'un Evrensel Boyutlari,Ismet Bozdag,Truva,tarih,160
+ATATURK(Kisiligi,Ilkeleri,Dusunceleri),Ahmet Koklugiller,IQ Kultur Sanat,tarih,224
+Kemalizm,Tekinalp,Toplumsal Donusum,tarih,287
+Ataturkculuk Nedir,Ne Degildir?,Ahmet Koklugiller,IQ Kultur Sanat,tarih,448
+Turklerin Strateji Seruveni,Adnan Nur Baykal,Sistem Yayincilik,tarih,318
+Devletin Zirvesindekiler,belirsiz,Neden?,tarih,324
+Buyuk Turk Milleti,Yuksel Mert,Cengiz Acikgoz,Tutku,tarih,308
+Turk Buyukleri Turk Kahramanlari,Feridun Fazil Tulbentci,Inkilap,tarih,632
+Daragacinda Uc Fidan,Nihat Behram,Everest,tarih,215
+Ziya Gokalp Eserlerinden Secmeler,Bulent Bora,Morpa Kultur,tarih,255
+Turk Milli Kulturu,Prof.Dr.Ibrahim Kafesoglu,Otuken,tarih,454
+Internetin Gecmisi ve Dijital Gelecek,Johnny Ryan,TUBITAK,bilim,286
+Yeryuzune Dusus:Apollo 15 Astronotunun Ay'a Yolculugu,Al Worden,Smithsonian Books,bilim,309
