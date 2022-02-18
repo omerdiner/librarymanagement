@@ -311,3 +311,10 @@ Hic Kimse Siradan Degildir,Markus Zusak,Marti,roman,462
 Utopia,Thomas More,Is Bankasi,felsefe,250
 Toplum Sozlesmesi,Jean-Jacques Rousseau,Is Bankasi,felsefe,136
 NUTUK-,Gazi Mustafa Kemal ATATURK,Can,tarih,906
+Biz,Yevgeni Zamyatin,Ithaki,roman,246
+Bilgisayar Bilimine Giris,J.Glenn Brookshear,Nobel,bilim,628
+Hangi Ataturk?,Attila Ilhan,Is Bankasi,tarih,426
+Golgelerin Efendisi 14 Son Duello,John Flanagan,Beyaz Balina,roman,335
+Alti Yil,Harlan Coben,Marti,roman,399
+Devlet-i Aliyye 1.cilt,Halil Inalcik,Is Bankasi,tarih,377
+Mahser-Tam metin,Stephen King,Altin Kitaplar,roman,1216
