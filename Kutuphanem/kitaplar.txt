@@ -318,3 +318,4 @@ Golgelerin Efendisi 14 Son Duello,John Flanagan,Beyaz Balina,roman,335
 Alti Yil,Harlan Coben,Marti,roman,399
 Devlet-i Aliyye 1.cilt,Halil Inalcik,Is Bankasi,tarih,377
 Mahser-Tam metin,Stephen King,Altin Kitaplar,roman,1216
+Dogu'nun Limanlari,Amin Maalouf,YKY,roman,183
