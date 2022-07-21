@@ -319,3 +319,7 @@ Alti Yil,Harlan Coben,Marti,roman,399
 Devlet-i Aliyye 1.cilt,Halil Inalcik,Is Bankasi,tarih,377
 Mahser-Tam metin,Stephen King,Altin Kitaplar,roman,1216
 Dogu'nun Limanlari,Amin Maalouf,YKY,roman,183
+Insanin Anlam Arayisi,Viktor E. Frankl,okuyanus,felsefe,155
+Sahaf Mendel,Stefan Zweig,etstur,roman,94
+Kirmizi Pazartesi,Gabriel Garcia Marquez,can,roman,107
+Kardesimin Hikayesi,Zulfu Livaneli,dogan kitap,roman,324
